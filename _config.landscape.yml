@@ -1,2 +1,10 @@
 local_search:
   enable: true
+
+waline:
+  enable: true
+  server: https://idyllic-zabaione-7b3af9.netlify.app
+
+license: true
+excerpt_link: Read More
+
