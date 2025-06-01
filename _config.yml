@@ -4,10 +4,10 @@
 
 # Site
 title: Polaris
-subtitle: '直抵群星'
+subtitle: 'Polaris SSBS'
 description: ''
 keywords:
-author: Gino Zhang
+author: Polaris
 language: en
 timezone: ''
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscapex
+theme: matery
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
