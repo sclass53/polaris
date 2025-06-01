@@ -4,7 +4,7 @@
 
 # Site
 title: Polaris
-subtitle: 'To The Stars'
+subtitle: '直抵群星'
 description: ''
 keywords:
 author: Gino Zhang
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: landscapex
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
