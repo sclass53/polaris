@@ -10,7 +10,7 @@ keywords:
 author: Polaris
 language: en
 timezone: ''
-
+# linear-gradient(to right, #1f38b8 0%, #390072 100%);
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://ssbs-polaris.netlify.app
